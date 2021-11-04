@@ -1,0 +1,10 @@
+{
+    "name": "USL",
+    "version": "1.0",
+
+    "credits": {
+        "developer": "@credital"
+    },
+
+    "useProxies": true
+}
